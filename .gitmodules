@@ -1,0 +1,9 @@
+[submodule "fraudshield-transaction-service"]
+	path = fraudshield-transaction-service
+	url = https://github.com/vivekbhadra/fraudshield-transaction-service.git
+	branch = main
+
+[submodule "fraudshield-fraud-detection-service"]
+	path = fraudshield-fraud-detection-service
+	url = https://github.com/vivekbhadra/fraudshield-fraud-detection-service.git
+	branch = main
